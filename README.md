@@ -1,6 +1,6 @@
 # Add Free Tube
 
-An add free youtube clone which helps users to search and watch videos. Nothing else
+A youtube clone which helps users to search and watch videos. Completely in React &#x1F60D;
 
 ### Getting Started
 
