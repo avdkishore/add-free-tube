@@ -21,7 +21,6 @@
     "react-redux": "4.3.0",
     "react-router": "^2.0.1",
     "redux": "^3.7.2"
-    "redux": "^3.0.4",
     "snyk": "^1.161.1"
   },
   "devDependencies": {
