@@ -18,7 +18,7 @@
     "lodash": "^4.17.5",
     "react-dom": "^16.0.1",
     "react": "^0.14.9",
-    "react-redux": "4.3.0",
+    "react-redux": "5.1.0",
     "react-router": "^2.0.1",
     "redux": "^3.7.2",
     "snyk": "^1.161.1"
